@@ -20,8 +20,8 @@ export function TerminalFooter({ isVisible = true }: TerminalFooterProps) {
       <div className="max-w-4xl mx-auto px-4 py-3">
         <div className="flex items-center justify-center font-mono text-sm">
           <span className="text-muted-foreground">
-            <span className="text-yellow-400 font-medium">₿ Майнер Биткоина </span>
-            <span className="text-yellow-400/70">| Tap to Mine · SHA-256</span>
+            <span className="text-yellow-400 font-medium">⛏ Potok Mainer </span>
+            <span className="text-yellow-400/70">| Blockchain Mining System · SHA-256</span>
           </span>
         </div>
       </div>
